@@ -694,6 +694,7 @@ Signed,
 1. Nick Chambers
 1. Nick Davis
 1. Nick Guenther
+1. Nick Jackson
 1. Nick Morrott (Debian Developer, STEM Ambassador, Code Club volunteer)
 1. Nick Richards
 1. Nick Ruest
